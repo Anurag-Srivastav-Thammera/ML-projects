@@ -1,4 +1,4 @@
-# ML Projects 🚀
+# Machine Learning (ML) Projects 🚀
 
 This repository contains various Machine Learning projects and implementations.
 
