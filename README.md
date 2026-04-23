@@ -2,7 +2,7 @@
 
 This repository contains various Machine Learning projects and implementations.
 
-## 📁 Projectss
+## 📁 Projects
 
 ### 🌸 Iris Flower Classification
 - **File:** `proj.ipynb`
